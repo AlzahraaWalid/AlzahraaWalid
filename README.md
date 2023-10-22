@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-https://www.bing.com/images/search?view=detailV2&ccid=F%2faOQBs2&id=E6D34DD3B322962964B9A9B95602028435FB9ECF&thid=OIP.F_aOQBs2uLhzRlV5QKQJcAHaHa&mediaurl=https%3a%2f%2fpurepng.com%2fpublic%2fuploads%2flarge%2fpurepng.com-robotrobotprogrammableautomatonelectronicscyborg-1701528371874ax93z.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.17f68e401b36b8b87346557940a40970%3frik%3dz577NYQCAla5qQ%26pid%3dImgRaw%26r%3d0&exph=2000&expw=2000&q=ropot+image+png&simid=607994939631822689&FORM=IRPRST&ck=DB82A018A2B225CD39E692FA11261B9E&selectedIndex=3
+
 <br>
 
 
@@ -80,7 +80,7 @@ https://www.bing.com/images/search?view=detailV2&ccid=F%2faOQBs2&id=E6D34DD3B322
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://th.bing.com/th/id/OIP.F_aOQBs2uLhzRlV5QKQJcAHaHa?w=194&h=194&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
